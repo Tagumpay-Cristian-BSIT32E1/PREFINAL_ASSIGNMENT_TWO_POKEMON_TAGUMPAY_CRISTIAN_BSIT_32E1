@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TagumpayPokemon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b860383aa88369b1aaf2b81c3cd1353a59a79f6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daae4c5fb92d32ffc3e98ff2932de9589190ccd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TagumpayPokemon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TagumpayPokemon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
