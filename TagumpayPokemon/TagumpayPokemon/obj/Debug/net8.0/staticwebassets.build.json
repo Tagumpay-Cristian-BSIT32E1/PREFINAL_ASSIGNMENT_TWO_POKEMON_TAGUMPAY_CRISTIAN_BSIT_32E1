@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QD/7N5YJKV3ziPLH6uWSbAE0yA9EhEqM4B5HF5NvgTs=",
+  "Hash": "yIdH6djpAv4YcmB8j0F7WROIXKGCVX0l7S5nYVHcff8=",
   "Source": "TagumpayPokemon",
   "BasePath": "_content/TagumpayPokemon",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\wwwroot\\Images\\PokemonBG.png",
+      "SourceId": "TagumpayPokemon",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\wwwroot\\",
+      "BasePath": "_content/TagumpayPokemon",
+      "RelativePath": "Images/PokemonBG.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\PokemonBG.png"
     },
     {
       "Identity": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\wwwroot\\js\\site.js",

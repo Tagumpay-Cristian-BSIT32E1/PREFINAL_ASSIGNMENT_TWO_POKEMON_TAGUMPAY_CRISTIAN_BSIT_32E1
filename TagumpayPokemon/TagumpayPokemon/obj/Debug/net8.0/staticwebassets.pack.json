@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TagumpayPokemon.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\wwwroot\\Images\\PokemonBG.png",
+      "PackagePath": "staticwebassets\\Images\\PokemonBG.png"
+    },
+    {
       "Id": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
