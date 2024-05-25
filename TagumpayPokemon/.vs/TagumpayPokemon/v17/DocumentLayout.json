@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|c:\\users\\publi\\documents\\github\\prefinal_assignment_two_pokemon_tagumpay_cristian_bsit_32e1\\tagumpaypokemon\\tagumpaypokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|solutionrelative:tagumpaypokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|c:\\users\\publi\\documents\\github\\prefinal_assignment_two_pokemon_tagumpay_cristian_bsit_32e1\\tagumpaypokemon\\tagumpaypokemon\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|solutionrelative:tagumpaypokemon\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|c:\\users\\publi\\documents\\github\\prefinal_assignment_two_pokemon_tagumpay_cristian_bsit_32e1\\tagumpaypokemon\\tagumpaypokemon\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|solutionrelative:tagumpaypokemon\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|c:\\users\\publi\\documents\\github\\prefinal_assignment_two_pokemon_tagumpay_cristian_bsit_32e1\\tagumpaypokemon\\tagumpaypokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|solutionrelative:tagumpaypokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|c:\\users\\publi\\documents\\github\\prefinal_assignment_two_pokemon_tagumpay_cristian_bsit_32e1\\tagumpaypokemon\\tagumpaypokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB82554-F492-4259-822C-B341F01C07FD}|TagumpayPokemon\\TagumpayPokemon.csproj|solutionrelative:tagumpaypokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Program.cs",
+              "RelativeDocumentMoniker": "TagumpayPokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Program.cs",
+              "RelativeToolTip": "TagumpayPokemon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:05:51.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -26,6 +60,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Views\\Details.cshtml",
+              "RelativeDocumentMoniker": "TagumpayPokemon\\Views\\Details.cshtml",
+              "ToolTip": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Views\\Details.cshtml",
+              "RelativeToolTip": "TagumpayPokemon\\Views\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T17:03:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagumpayPokemon\\Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "TagumpayPokemon\\Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T17:01:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "TagumpayPokemon\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "TagumpayPokemon\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:56:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "TagumpayPokemon\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\publi\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_TAGUMPAY_CRISTIAN_BSIT_32E1\\TagumpayPokemon\\TagumpayPokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "TagumpayPokemon\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:49:10.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
